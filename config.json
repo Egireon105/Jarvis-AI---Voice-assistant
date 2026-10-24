@@ -1,0 +1,30 @@
+{
+  "programs": [
+    {
+      "label": "Блокнот",
+      "aliases": [
+        "блокнот",
+        "нотпад",
+        "notepad"
+      ],
+      "processes": [
+        "notepad.exe"
+      ],
+      "launch": [
+        [
+          "notepad.exe"
+        ]
+      ]
+    }
+  ],
+  "sites": [
+    {
+      "label": "Хабр",
+      "aliases": [
+        "хабр",
+        "habr"
+      ],
+      "url": "https://habr.com"
+    }
+  ]
+}
